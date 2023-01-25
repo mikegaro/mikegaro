@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikegaro
+- 👋 Hi, I’m Miguel
 - 👀 I’m interested in Robotics and Embedded Systems
 - 🌱 I’m currently learning Motion Planning, Humanoid Dynamics, Control Systems and Real Time Embedded Applications
 - 💞️ I’m looking to collaborate on more legged robotics and bio-inspired dynamics.
