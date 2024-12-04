@@ -1,4 +1,4 @@
-# Hello, I'm Miguel Garcia :
+# Hello, I'm Miguel Garcia :wave:
 
 - :books: I'm a robotics researcher at UNAM.
 - :briefcase: I work as software engineer at FEV North America
