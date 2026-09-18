@@ -1,6 +1,6 @@
-# Hello, I'm Miguel Garcia :wave:
+# Hello, I'm Miguel :wave:
 
-- :books: I'm a robotics researcher at UNAM.
+- :books: I'm a robotics researcher at UNAM. B.S. Mechatronics Engineering
 - :briefcase: I work as software engineer at FEV North America
 
 [![](https://raw.githubusercontent.com/mikegaro/mikegaro/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
